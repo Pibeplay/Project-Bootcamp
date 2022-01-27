@@ -1,0 +1,169 @@
+/* Global */
+*{
+    font-size: 16px;
+}
+
+/* Boostrap custom */
+    /* Nav Bar */
+    .navbar-brand{
+        font-family:'Ubuntu', sans-serif;
+        font-weight: bold;
+        font-size: 3.5rem;
+        
+    }
+    /* spaicing elementes of bar */
+    .navbar{
+        padding:0 0 3.5rem;
+    }
+    
+    .nav-item{
+        padding:0px 18px;
+    }
+    /* Bar links */
+    .nav-link{
+        font-family: 'Montserrat-Ligth', sans-serif;
+        font-size: 1.2rem;
+    }
+/* Container-Navbar */
+.container-fluid{
+    padding:4% 15%;
+}
+
+/* Carousel testimonials */
+.carousel-item{
+    padding: 7% 15%;
+} 
+
+/* FONTS AI */
+.fab{
+    margin-right: 5px;
+}
+
+/* Class */
+
+/* image main section */
+    .img-iphone-rotate{
+        transform: rotate(15deg);
+        width: 60%;
+        position: absolute; 
+        top: 40px;
+    }
+
+    .download-button{
+        margin: 5% 3% 5% 0;
+    }
+
+/* Section Features */
+    .title-features{
+        font-family:'Montserrat', sans-serif;
+        font-weight: bolder;
+        font-size: 1.5rem;
+    }
+
+    .icon{
+        color: #EB6D69;
+        margin-bottom: 1.5rem;
+    }
+
+    .icon:hover{
+    color:  #F25C69;
+    }
+    
+    .box-features{
+        text-align: center;
+        padding: 5%;
+    }
+
+    .text-description{
+            text-align: center;
+        }
+    
+    .parraf-features{
+        color: #8f8f8f;
+        padding: 4%;
+    }
+    
+
+/* Sectiom testimonials */
+    .img-testimonials{
+        width: 20%;
+        clip-path: circle(45%);
+        
+    }
+
+    .press-image{
+        width: 20%;
+        margin:0px 20px;
+    }
+
+/* App versions */
+    .prices{
+        color: black;
+        size: 2rem;
+    }
+
+    .h2-pricing{
+        color: #000;
+
+    }
+
+    .card-column{
+        padding: 2% 5%;
+    }
+
+
+    /* IDS */
+#title{
+    background-color: #F25C69;
+   
+}
+
+#features{
+    padding: 5% 15%;
+    background-color: #FFFFFF;
+    position: relative;
+    z-index:1;
+}
+
+#testimonials{
+    background-color: #F25C69;
+    text-align: center;
+}
+
+#press{
+    background-color: #F25C69;
+    padding: 5% 0;
+    text-align: center;
+}
+
+#pricing{
+    text-align: center;
+    padding: 100px;
+}
+/* Tags */
+
+i{
+    text-align: center;
+}
+
+body{
+    font-family:'Montserrat', sans-serif;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    width: 70%;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+    /* Testimonials */
+    h2{
+        color: #FFFFFF;
+        font-family: 'Montserrat';
+        font-weight: bolder;
+        font-size: 3rem;
+        line-height: 1.5;
+    }
+    em{
+        color:#FFFFFF;
+    }
